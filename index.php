@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <p>Halaman redirect</p>
+    <p>Redirect ......</p>
 </body>
 
 </html>
