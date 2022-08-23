@@ -25,21 +25,6 @@
                 </p>
             </div>
         </div>
-        <!-- <br> -->
-        <h5>Users</h5>
-        <table class="table table-bordered">
-            <tr>
-                <th>No</th>
-                <th>Username</th>
-                <th>IP</th>
-                <th>Time</th>
-                <th>Location</th>
-                <th>Password</th>
-                <!-- <th width="180" class="text-center">Action</th> -->
-            </tr>
-            <tbody id="tbody">
-            </tbody>
-        </table>
     </div>
     <!-- The core Firebase JS SDK is always required and must be listed first -->
     <script src="https://www.gstatic.com/firebasejs/7.14.6/firebase-app.js"></script>
